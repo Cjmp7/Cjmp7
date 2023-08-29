@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**Cjmp7/Cjmp7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o João Victor🤖
 
-Here are some ideas to get you started:
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC_BasV6uJ8qcCp7i_o05Aqw)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/intl-pt/artist/26UDVYHOgVuMqpzVm68mY7?si=D1_khU2vQ7K-mwp3fPIfhw)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/cj.mp7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Cjmp7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjmp7&show_icons=true&theme=dracula)
+
+## Tecnologias que eu uso no meu dia
+
+<div style="display: inline_block"><br/>
+<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br/>
+
+Atualmente estou estudando as 3 tecnologias em destaque, para me tornar um Dev front-end assim que possível!
