@@ -7,6 +7,8 @@
 
 ![Cjmp7 GitHub stats](https://github-readme-stats.vercel.app/api?username=Cjmp7&show_icons=true&theme=dracula)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cjmp7&layout=compact)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
