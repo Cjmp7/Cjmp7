@@ -17,4 +17,4 @@
 <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div><br/>
 
-Atualmente estou estudando as 3 tecnologias em destaque, para me tornar um Dev front-end assim que possível!
+Atualmente estou estudando as 3 tecnologias em destaque.
